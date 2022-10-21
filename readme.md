@@ -7,6 +7,7 @@ Git has a mutable index called stage.
 Git tracks changes in files.
 
 Make some changes on the GitHub and then fetch.
-    
-    Try to use vs code.
-    
+
+Try to use vs code.
+
+Back to vs.
