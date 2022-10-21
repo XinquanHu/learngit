@@ -5,3 +5,5 @@ Git is free software distributed under the GPL.
 
 Git has a mutable index called stage.
 Git tracks changes of file.
+
+Make some changes on the github and then fetch.
