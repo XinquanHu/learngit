@@ -11,4 +11,6 @@ Make some changes on the GitHub and then fetch.
 Try to use vs code.
 
 Back to vs.
-There is some mistakes.
+There are some mistakes.
+
+If we have some conflicts, how to solve them?
